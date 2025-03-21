@@ -6,9 +6,8 @@ db.sqlite3
 *.pot
 *.pyc
 .idea/*
-_pycache_/
+__pycache__/
 db.sqlite3
 */migrations/
-!**/migrations
-!**/migrations/_init_.py
+!*/migrations/_init_.py
 test_files
